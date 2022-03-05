@@ -1,0 +1,4 @@
+baseURL = 'https://www.troy.ws/'
+languageCode = 'en-us'
+title = 'Troy'
+theme = "ananke"
